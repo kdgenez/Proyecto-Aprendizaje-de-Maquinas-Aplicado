@@ -1,2 +1,2 @@
-# Proyecto-Aprendizaje-de-M-quinas-Aplicado
+# Proyecto-Aprendizaje-de-Maquinas-Aplicado
 Entrega Proyecto Aprendizaje de Máquinas Aplicado
